@@ -1,0 +1,9 @@
+tokenizer,count
+nltk,2632
+razdel,2636
+segtok,2504
+pymorphy,2652
+spacy,2705
+stanza,2661
+moses,2670
+ufal,2647
