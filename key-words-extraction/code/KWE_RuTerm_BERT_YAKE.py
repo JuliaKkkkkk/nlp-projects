@@ -77,11 +77,11 @@ def main():
     bert_tri_txt = extractor.BERT(text,     ngram_range=(1,3))
 
     # Сохранение
-    extractor.save_combined_excel(rut_abs,    rut_txt,    "RuTerm.xlsx")
-    extractor.save_combined_excel(yake_abs,   yake_txt,   "YAKE.xlsx")
-    extractor.save_combined_excel(bert_uni_abs, bert_uni_txt, "KeyBERT_unigram.xlsx")
-    extractor.save_combined_excel(bert_bi_abs,  bert_bi_txt,  "KeyBERT_bigram.xlsx")
-    extractor.save_combined_excel(bert_tri_abs, bert_tri_txt, "KeyBERT_trigram.xlsx")
+    extractor.save_combined_excel(rut_abs,    rut_txt,    "KW_RuTerm.xlsx")
+    extractor.save_combined_excel(yake_abs,   yake_txt,   "KW_YAKE.xlsx")
+    extractor.save_combined_excel(bert_uni_abs, bert_uni_txt, "KW_KeyBERT_unigram.xlsx")
+    extractor.save_combined_excel(bert_bi_abs,  bert_bi_txt,  "KW_KeyBERT_bigram.xlsx")
+    extractor.save_combined_excel(bert_tri_abs, bert_tri_txt, "KW_KeyBERT_trigram.xlsx")
 
 if __name__ == '__main__':
     main()
