@@ -1,0 +1,7 @@
+"file","method","predicted","score"
+"Maugham langid.txt","langdetect","en",""
+"Maugham langid.txt","langid","en",-46177.91532373428
+"Remarque langid.txt","langdetect","de",""
+"Remarque langid.txt","langid","de",-44638.509373664856
+"Чехов langid.txt","langdetect","ru",""
+"Чехов langid.txt","langid","ru",-237867.58495402336
