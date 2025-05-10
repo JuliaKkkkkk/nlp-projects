@@ -1,0 +1,1740 @@
+token,pos
+ ,SPACE
+Бриллиантовая,ADJ
+отделка,NOUN
+на,ADP
+обеих,NUM
+сторонах,NOUN
+корпуса,NOUN
+этой,DET
+	,SPACE
+#,NOUN
+#,SYM
+#,PUNCT
+	,SPACE
+ультраженственной,ADJ
+	 ,SPACE
+модели,NOUN
+",",PUNCT
+объединяющей,VERB
+часы,NOUN
+и,CCONJ
+украшение,NOUN
+"
+",SPACE
+-,NUM
+1844,NUM
+:,PUNCT
+Изобретение,PROPN
+	,SPACE
+#,NOUN
+#,NOUN
+#,PUNCT
+	,SPACE
+миллионометра,NOUN
+	,SPACE
+",",PUNCT
+измерения,NOUN
+с,ADP
+точностью,NOUN
+до,ADP
+микрона,NOUN
+"
+ ",SPACE
+Узор,PROPN
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+гильоше,NOUN
+	 ,SPACE
+радует,VERB
+глаз,NOUN
+и,CCONJ
+облегчает,VERB
+чтение,NOUN
+показаний,NOUN
+"
+",SPACE
+Калибр,NOUN
+11,NUM
+1/2,NUM
+’’,PUNCT
+’,PUNCT
+",",PUNCT
+63,NUM
+камней,NOUN
+",",PUNCT
+частота,NOUN
+колебаний,NOUN
+баланса,NOUN
+28.800,NUM
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+полуколебаний,NOUN
+	,SPACE
+/час,X
+(,PUNCT
+4,NUM
+Гц,PROPN
+),PUNCT
+"
+",SPACE
+В,ADP
+этом,DET
+втором,ADJ
+выпуске,NOUN
+модели,NOUN
+сохранился,VERB
+дизайн,NOUN
+корпуса,NOUN
+",",PUNCT
+навеянный,VERB
+стилем,NOUN
+«,PUNCT
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+Баухаус,X
+	,SPACE
+»,PUNCT
+",",PUNCT
+архитектурным,ADJ
+течением,NOUN
+30-х,ADJ
+годов,NOUN
+",",PUNCT
+однако,ADV
+она,PRON
+приобрела,VERB
+явный,ADJ
+спортивный,ADJ
+облик,NOUN
+благодаря,ADP
+титановому,ADJ
+покрытию,NOUN
+корпуса,NOUN
+и,CCONJ
+отделке,NOUN
+браслета,NOUN
+«,PUNCT
+под,ADP
+углеволокно,NOUN
+»,PUNCT
+.,PUNCT
+"
+",SPACE
+Продолжив,VERB
+в,ADP
+этом,DET
+году,NOUN
+разработки,NOUN
+в,ADP
+области,NOUN
+рафинированной,ADJ
+архитектуры,NOUN
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+скелетонных,ADJ
+	 ,SPACE
+часовых,ADJ
+механизмов,NOUN
+",",PUNCT
+фирма,NOUN
+предложила,VERB
+свой,DET
+двойной,ADJ
+турбийон,NOUN
+в,ADP
+скульптурном,ADJ
+исполнении,NOUN
+.,PUNCT
+"
+",SPACE
+Вспомним,VERB
+принцип,NOUN
+действия,NOUN
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+турбийона,NOUN
+	,SPACE
+:,PUNCT
+регулятор,NOUN
+часов,NOUN
+(,PUNCT
+система,NOUN
+баланс,NOUN
+/,PUNCT
+спираль,NOUN
+/,PUNCT
+спуск,NOUN
+),PUNCT
+помещается,VERB
+в,ADP
+«,PUNCT
+каретку,NOUN
+»,PUNCT
+",",PUNCT
+которая,PRON
+вращается,VERB
+вокруг,ADP
+собственной,ADJ
+оси,NOUN
+",",PUNCT
+обычно,ADV
+со,ADP
+скоростью,NOUN
+1,NUM
+оборот,NOUN
+в,ADP
+минуту,NOUN
+.,PUNCT
+"
+",SPACE
+Широкие,ADJ
+указатели,NOUN
+делений,NOUN
+выполнены,VERB
+из,ADP
+золота,NOUN
+",",PUNCT
+арабские,ADJ
+цифры,NOUN
+и,CCONJ
+счетчик,NOUN
+минут,NOUN
+покрыты,VERB
+напылением,NOUN
+из,ADP
+розового,ADJ
+золота,NOUN
+",",PUNCT
+отметки,NOUN
+секунд,NOUN
+рассыпаны,VERB
+по,ADP
+белому,ADJ
+диску,NOUN
+",",PUNCT
+контуры,NOUN
+которого,PRON
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+напылены,VERB
+	 ,SPACE
+розовым,ADJ
+золотом,NOUN
+.,PUNCT
+"
+",SPACE
+Использованы,VERB
+высокотехнологичные,ADJ
+материалы,NOUN
+:,PUNCT
+корпус,NOUN
+из,ADP
+титана,NOUN
+с,ADP
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+ультралегким,ADJ
+	 ,SPACE
+и,CCONJ
+сверхтвердым,ADJ
+",",PUNCT
+около,ADP
+4000,NUM
+HV,PROPN
+",",PUNCT
+покрытием,NOUN
+DLC,PROPN
+(,PUNCT
+«,PUNCT
+"
+ ",SPACE
+и,CCONJ
+сверхтвердым,ADJ
+",",PUNCT
+около,ADP
+4000,NUM
+HV,PROPN
+",",PUNCT
+покрытием,NOUN
+DLC,PROPN
+(,PUNCT
+«,PUNCT
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+алмазоподобный,ADJ
+	 ,SPACE
+углерод,NOUN
+»,PUNCT
+),PUNCT
+",",PUNCT
+циферблат,NOUN
+из,ADP
+углеродного,ADJ
+волокна,NOUN
+",",PUNCT
+что,PRON
+в,ADP
+еще,ADV
+большей,ADJ
+степени,NOUN
+улучшает,VERB
+характеристики,NOUN
+часов,NOUN
+.,PUNCT
+"
+",SPACE
+Коньяк,PROPN
+X.O.,PROPN
+заполняет,VERB
+великолепную,ADJ
+бутылку,NOUN
+-,NOUN
+графин,NOUN
+",",PUNCT
+оформленную,VERB
+золотой,ADJ
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+шелкографией,NOUN
+	 ,SPACE
+и,CCONJ
+создающую,VERB
+тонкую,ADJ
+игру,NOUN
+света,NOUN
+",",PUNCT
+проходящего,VERB
+через,ADP
+коньяк,NOUN
+.,PUNCT
+"
+",SPACE
+На,ADP
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+контрэтикетке,NOUN
+	 ,SPACE
+указан,VERB
+сорт,NOUN
+винограда,NOUN
+",",PUNCT
+из,ADP
+которого,PRON
+произведен,VERB
+коньяк,NOUN
+",",PUNCT
+описаны,VERB
+его,DET
+вкусовые,ADJ
+качества,NOUN
+и,CCONJ
+традиционный,ADJ
+способ,NOUN
+изготовления,NOUN
+.,PUNCT
+"
+",SPACE
+Белое,ADJ
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+пино,PROPN
+-,ADJ
+де,NOUN
+-,NOUN
+шарант,NOUN
+	 ,SPACE
+представляет,VERB
+собой,PRON
+мощное,ADJ
+и,CCONJ
+хорошо,ADV
+сбалансированное,VERB
+вино,NOUN
+",",PUNCT
+выдерживаемое,VERB
+на,ADP
+коньячном,ADJ
+спирту,NOUN
+в,ADP
+бочках,NOUN
+из,ADP
+дубов,NOUN
+Лимузена,PROPN
+.,PUNCT
+Обычно,ADV
+пьется,VERB
+охлажденным,VERB
+в,ADP
+качестве,NOUN
+аперитива,NOUN
+",",PUNCT
+может,VERB
+также,ADV
+сопровождать,VERB
+десерт,NOUN
+.,PUNCT
+"
+",SPACE
+Бархатистый,ADJ
+энергичный,ADJ
+коньяк,NOUN
+",",PUNCT
+дегустация,NOUN
+которого,PRON
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+запечатлится,VERB
+	 ,SPACE
+в,ADP
+вашей,DET
+памяти,NOUN
+в,ADP
+виде,NOUN
+самых,ADJ
+приятных,ADJ
+воспоминаний,NOUN
+.,PUNCT
+"
+",SPACE
+Это,PRON
+округлое,ADJ
+",",PUNCT
+с,ADP
+выраженной,ADJ
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+фруктовостью,NOUN
+	 ,SPACE
+вино,NOUN
+создано,VERB
+для,ADP
+наслаждения,NOUN
+:,PUNCT
+оно,PRON
+начинает,VERB
+воздействовать,VERB
+прямо,ADV
+",",PUNCT
+создавая,VERB
+объемный,ADJ
+вкус,NOUN
+.,PUNCT
+"
+",SPACE
+От,ADP
+полных,ADJ
+солнечного,ADJ
+света,NOUN
+островов,NOUN
+Ре,PROPN
+и,CCONJ
+Олерон,PROPN
+",",PUNCT
+от,ADP
+Ониса,PROPN
+и,CCONJ
+Сентонжа,PROPN
+до,ADP
+удаленных,ADJ
+уголков,NOUN
+Шаранты,PROPN
+мы,PRON
+чувствуем,VERB
+себя,PRON
+в,ADP
+сказочном,ADJ
+краю,NOUN
+феи,NOUN
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+Мелузины,PROPN
+	 ,SPACE
+и,CCONJ
+Спящей,VERB
+красавицы,NOUN
+.,PUNCT
+"
+",SPACE
+Легкосмываемый,VERB
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+водорастворимый,VERB
+	 ,SPACE
+маркер,NOUN
+Оптимально,ADV
+подходит,VERB
+для,ADP
+неперманентной,ADJ
+маркировки,NOUN
+по,ADP
+пластику,NOUN
+",",PUNCT
+стеклу,NOUN
+",",PUNCT
+окрашенным,VERB
+металлическим,ADJ
+поверхностям,NOUN
+",",PUNCT
+полированному,ADJ
+алюминию,NOUN
+",",PUNCT
+автомобильным,ADJ
+амортизаторам,NOUN
+",",PUNCT
+специальным,ADJ
+металлам,NOUN
+.,PUNCT
+"
+",SPACE
+Спрей,NOUN
+-,NOUN
+активатор,NOUN
+:,PUNCT
+Активатор,PROPN
+для,ADP
+ускорения,NOUN
+схватывания,NOUN
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+цианакрилатных,ADJ
+	 ,SPACE
+клеев,NOUN
+.,PUNCT
+"
+",SPACE
+В,ADP
+стандартном,ADJ
+варианте,NOUN
+на,ADP
+заводе,NOUN
+для,ADP
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+вентиляторных,ADJ
+	 ,SPACE
+блоков,NOUN
+выполняется,VERB
+разводка,NOUN
+кабелей,NOUN
+и,CCONJ
+необходимые,ADJ
+подключения,NOUN
+",",PUNCT
+которые,PRON
+сосредоточены,VERB
+:,PUNCT
+"
+",SPACE
+Но,CCONJ
+не,PART
+могла,VERB
+она,PRON
+просто,PART
+оставить,VERB
+драгоценное,ADJ
+колечко,NOUN
+(,PUNCT
+а,CCONJ
+скорее,ADV
+	,SPACE
+#,NOUN
+#,NOUN
+#,PUNCT
+	,SPACE
+кольчище,NOUN
+	,SPACE
+),PUNCT
+на,ADP
+полу,NOUN
+.,PUNCT
+"
+",SPACE
+У,ADP
+нас,PRON
+тут,ADV
+в,ADP
+Аргентине,PROPN
+такая,DET
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+жарина,NOUN
+	,SPACE
+!,PUNCT
+"
+",SPACE
+!,PUNCT
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+опупеть,VERB
+	 ,SPACE
+можно,ADV
+!,PUNCT
+!,PUNCT
+!,PUNCT
+!,PUNCT
+!,PUNCT
+!,PUNCT
+!,PUNCT
+!,PUNCT
+!,PUNCT
+!,PUNCT
+!,PUNCT
+!,PUNCT
+"
+",SPACE
+необходимо,ADJ
+",",PUNCT
+чтобы,SCONJ
+отстоять,VERB
+свою,DET
+честь,NOUN
+и,CCONJ
+достоинство,NOUN
+Человека,PROPN
+и,CCONJ
+все,DET
+здесь,ADV
+присутствующие,VERB
+согласны,ADJ
+иметь,VERB
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+кулакасто,ADV
+-,ADV
+добрясто,ADJ
+-,ADJ
+шкафастое,ADJ
+	 ,SPACE
+рядом,ADV
+"
+",SPACE
+в,ADP
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+обосененную,ADJ
+	 ,SPACE
+тишину,NOUN
+.,PUNCT
+"
+ ",SPACE
+Мы,PRON
+целый,ADJ
+год,NOUN
+кружили,VERB
+по,ADP
+разным,ADJ
+странам,NOUN
+",",PUNCT
+и,CCONJ
+у,ADP
+меня,PRON
+уже,ADV
+голова,NOUN
+заболела,VERB
+от,ADP
+этой,DET
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+кружали,VERB
+	,SPACE
+.,PUNCT
+"
+	",SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+Возрадывайтесь,VERB
+	,SPACE
+",",PUNCT
+френды,NOUN
+",",PUNCT
+френдини,NOUN
+",",PUNCT
+"
+",SPACE
+",",PUNCT
+френды,NOUN
+",",PUNCT
+френдини,NOUN
+",",PUNCT
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+френдята,VERB
+	 ,SPACE
+и,CCONJ
+френдятинки,NOUN
+"
+",SPACE
+Мы,PRON
+сидели,VERB
+",",PUNCT
+вечер,NOUN
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+пья,NOUN
+	,SPACE
+.,PUNCT
+"
+",SPACE
+А,CCONJ
+лишь,PART
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+стригя,NOUN
+	 ,SPACE
+волосы,NOUN
+и,CCONJ
+"
+ ",SPACE
+волосы,NOUN
+и,CCONJ
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+пекя,NOUN
+	 ,SPACE
+эпиграммы,NOUN
+.,PUNCT
+"
+",SPACE
+Клееный,ADJ
+брус,NOUN
+и,CCONJ
+клееное,ADJ
+бревно,NOUN
+–,PUNCT
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+деревяннее,ADJ
+	 ,SPACE
+деревянного,ADJ
+.,PUNCT
+"
+",SPACE
+Он,PRON
+с,ADP
+огромного,ADJ
+фото,NOUN
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+невянуще,ADV
+	 ,SPACE
+улыбался,VERB
+"
+",SPACE
+Сам,ADJ
+«,PUNCT
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+Газпром,PROPN
+	,SPACE
+»,PUNCT
+решил,VERB
+не,PART
+объявлять,VERB
+оферту,NOUN
+миноритариям,NOUN
+ТГК-1,PROPN
+.,PUNCT
+"
+",SPACE
+Мой,DET
+дух,NOUN
+",",PUNCT
+с,ADP
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+веселием,NOUN
+	 ,SPACE
+внемли,NOUN
+…,PUNCT
+"
+",SPACE
+Как,SCONJ
+Нил,PROPN
+",",PUNCT
+народы,NOUN
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+напояет,VERB
+"	
+",SPACE
+В,ADP
+воздухе,NOUN
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+висю,NOUN
+	 ,SPACE
+и,CCONJ
+фотографирую,NOUN
+.,PUNCT
+"
+",SPACE
+Вы,PRON
+идите,VERB
+домой,ADV
+",",PUNCT
+а,CCONJ
+я,PRON
+когда,SCONJ
+здесь,ADV
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+набудусь,VERB
+	,SPACE
+",",PUNCT
+то,SCONJ
+вы,PRON
+за,ADP
+мной,PRON
+придете,VERB
+…,PUNCT
+"
+	",SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+Побежу,PROPN
+	,SPACE
+",",PUNCT
+нет,VERB
+",",PUNCT
+"
+",SPACE
+",",PUNCT
+нет,VERB
+",",PUNCT
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+победю,NOUN
+	,SPACE
+",",PUNCT
+победю,NOUN
+и,CCONJ
+жару,NOUN
+и,CCONJ
+мороз,NOUN
+.,PUNCT
+"
+",SPACE
+Мама,NOUN
+",",PUNCT
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+покрасивь,NOUN
+	 ,SPACE
+его,PRON
+.,PUNCT
+Я,PRON
+хочу,VERB
+",",PUNCT
+чтобы,SCONJ
+он,PRON
+был,AUX
+не,PART
+тухлый,ADJ
+.,PUNCT
+Он,PRON
+растухнется,VERB
+?,PUNCT
+"
+",SPACE
+Видишь,VERB
+",",PUNCT
+как,SCONJ
+я,PRON
+хорошо,ADV
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+приудобился,VERB
+	,SPACE
+.,PUNCT
+"
+",SPACE
+-,NOUN
+Папа,NOUN
+",",PUNCT
+уже,ADV
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+расгащивается,VERB
+	,SPACE
+!,PUNCT
+-,PUNCT
+крикнула,VERB
+отцу,NOUN
+пятилетняя,ADJ
+дочь,NOUN
+",",PUNCT
+когда,SCONJ
+гости,NOUN
+",",PUNCT
+пришедшие,VERB
+к,ADP
+матери,NOUN
+",",PUNCT
+стали,VERB
+понемногу,ADV
+расходиться,VERB
+.,PUNCT
+"
+",SPACE
+-,PUNCT
+За,ADP
+это,PRON
+нельзя,ADV
+браться,VERB
+",",PUNCT
+а,CCONJ
+за,ADP
+это,PRON
+еще,ADV
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+нельзей,NOUN
+	,SPACE
+",",PUNCT
+да,PART
+?,PUNCT
+"
+",SPACE
+Ну,PART
+и,CCONJ
+какие,DET
+достойные,ADJ
+люди,NOUN
+меня,PRON
+еще,ADV
+читают,VERB
+",",PUNCT
+не,PART
+имея,VERB
+жж,PROPN
+или,CCONJ
+не,PART
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+френдя,NOUN
+	,SPACE
+?,PUNCT
+"
+",SPACE
+Немь,ADV
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+лукает,VERB
+	 ,SPACE
+луком,NOUN
+немным,ADJ
+"
+	",SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+Крылышкуя,PROPN
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+золотописьмом,NOUN
+"
+",SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+Крылышкуя,PROPN
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+золотописьмом,NOUN
+	,SPACE
+Тончайших,VERB
+жил,VERB
+",",PUNCT
+"
+",SPACE
+Бутявка,PROPN
+вычучилась,VERB
+",",PUNCT
+ 	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+вздребезнулась,VERB
+	,SPACE
+",",PUNCT
+ ,SPACE
+сопритюкнулась,VERB
+и,CCONJ
+усяпала,VERB
+с,ADP
+напушки,NOUN
+.,PUNCT
+"
+",SPACE
+Бутявка,NOUN
+же,PART
+не,PART
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+вазит,VERB
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+Калушу,NOUN
+"
+",SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+вазит,VERB
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+Калушу,PROPN
+	,SPACE
+",",PUNCT
+а,CCONJ
+"
+",SPACE
+",",PUNCT
+а,CCONJ
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+шмерендит,NOUN
+"	
+",SPACE
+Сяпала,VERB
+Калуша,PROPN
+по,ADP
+напушке,NOUN
+и,CCONJ
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+увазила,VERB
+	,SPACE
+Бутявку,PROPN
+.,PUNCT
+"
+	",SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+Кругтелся,VERB
+	,SPACE
+",",PUNCT
+винтясь,VERB
+по,ADP
+земле,NOUN
+",",PUNCT
+"
+",SPACE
+",",PUNCT
+винтясь,VERB
+по,ADP
+земле,NOUN
+",",PUNCT
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+Склипких,ADJ
+	,SPACE
+козей,NOUN
+царапистый,ADJ
+"
+",SPACE
+Тихо,PROPN
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+мисиков,NOUN
+	 ,SPACE
+стайка,NOUN
+"
+ ",SPACE
+стайка,NOUN
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+грустела,NOUN
+	 ,SPACE
+во,ADP
+мгле,PROPN
+",",PUNCT
+"
+",SPACE
+Зеленавки,NOUN
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+хрющали,VERB
+	 ,SPACE
+порой,NOUN
+.,PUNCT
+"
+",SPACE
+Я,PRON
+в,ADP
+тебя,PRON
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+грезитвой,ADJ
+	 ,SPACE
+мечу,NOUN
+",",PUNCT
+"
+",SPACE
+Бывший,ADJ
+разведчик,NOUN
+работал,VERB
+инженером,NOUN
+на,ADP
+комбинате,NOUN
+«,PUNCT
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+Росторгмонтаж,PROPN
+	,SPACE
+»,PUNCT
+"
+",SPACE
+В,ADP
+1917,ADJ
+году,NOUN
+появилась,VERB
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+ВЧК,PROPN
+	,SPACE
+.,PUNCT
+В,ADP
+феврале,NOUN
+1922,ADJ
+г.,NOUN
+ее,PRON
+переименовали,VERB
+в,ADP
+ГПУ,PROPN
+.,PUNCT
+В,ADP
+ноябре,NOUN
+того,DET
+же,PART
+года,NOUN
+создается,VERB
+"
+",SPACE
+.,PUNCT
+В,ADP
+феврале,NOUN
+1922,ADJ
+г.,NOUN
+ее,PRON
+переименовали,VERB
+в,ADP
+ГПУ,PROPN
+.,PUNCT
+В,ADP
+ноябре,NOUN
+того,DET
+же,PART
+года,NOUN
+создается,VERB
+	,SPACE
+#,NOUN
+#,NOUN
+#,PUNCT
+	,SPACE
+ОГПУ,PROPN
+	,SPACE
+",",PUNCT
+которое,PRON
+в,ADP
+1934,ADJ
+г.,NOUN
+входит,VERB
+в,ADP
+состав,NOUN
+НКВД,PROPN
+",",PUNCT
+а,CCONJ
+в,ADP
+феврале,NOUN
+1941,ADJ
+г.,NOUN
+разделяется,VERB
+на,ADP
+НКГБ,PROPN
+и,CCONJ
+НКВД,PROPN
+"
+",SPACE
+Остается,VERB
+загадкой,NOUN
+",",PUNCT
+кто,PRON
+в,ADP
+этом,DET
+случае,NOUN
+заплатил,VERB
+более,ADV
+$,NUM
+9,NUM
+млрд,NOUN
+за,ADP
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+БФГ,PROPN
+	,SPACE
+",",PUNCT
+которая,PRON
+выиграла,VERB
+аукцион,NOUN
+по,ADP
+акциям,NOUN
+ЮНГ,PROPN
+19,ADJ
+декабря,NOUN
+и,CCONJ
+затем,ADV
+была,AUX
+продана,VERB
+«,PUNCT
+Роснефти,PROPN
+»,PUNCT
+.,PUNCT
+"
+",SPACE
+В,ADP
+приемной,ADJ
+кампании,NOUN
+2008,ADJ
+года,NOUN
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+ФАКИ,PROPN
+	,SPACE
+занял,VERB
+1,NUM
+место,NOUN
+по,ADP
+числу,NOUN
+поданных,ADJ
+заявлений,NOUN
+и,CCONJ
+выдержавших,VERB
+вступительные,ADJ
+экзамены,NOUN
+.,PUNCT
+(,PUNCT
+Речь,NOUN
+идёт,VERB
+о,ADP
+факультете,NOUN
+аэрофизики,NOUN
+и,CCONJ
+космических,ADJ
+исследований,NOUN
+–,PUNCT
+Е.,PROPN
+С.,PROPN
+),PUNCT
+"
+",SPACE
+Одним,NUM
+из,ADP
+основных,ADJ
+учебных,ADJ
+институтов,NOUN
+становится,VERB
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+МФТИ,PROPN
+	,SPACE
+",",PUNCT
+основанный,VERB
+в,ADP
+1946,ADJ
+году,NOUN
+"
+ ",SPACE
+Московский,ADJ
+финансово,ADJ
+-,ADJ
+экономический,ADJ
+институт,NOUN
+(,PUNCT
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+МФЭИ,PROPN
+	,SPACE
+),PUNCT
+был,AUX
+открыт,VERB
+в,ADP
+1993,ADJ
+г.,NOUN
+"
+",SPACE
+Если,SCONJ
+бы,AUX
+дорога,NOUN
+до,ADP
+любимого,ADJ
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	 ,SPACE
+МГТУ,PROPN
+	 ,SPACE
+им.,NOUN
+Н.,PROPN
+Э.,PROPN
+Баумана,PROPN
+занимала,VERB
+хотя,PART
+бы,PART
+час,NOUN
+!,PUNCT
+"
+",SPACE
+Со,ADP
+стороны,NOUN
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+посмертья,NOUN
+	 ,SPACE
+эту,DET
+же,PART
+долгую,ADJ
+",",PUNCT
+даже,PART
+вечную,ADJ
+бытийность,NOUN
+смерти,NOUN
+обозначил,VERB
+Лао,PROPN
+Цзы,PROPN
+.,PUNCT
+Речь,NOUN
+идет,VERB
+не,PART
+о,ADP
+том,PRON
+",",PUNCT
+что,SCONJ
+человек,NOUN
+умирает,VERB
+",",PUNCT
+т.е.,PUNCT
+из,ADP
+живого,ADJ
+становится,VERB
+мертвым,ADJ
+",",PUNCT
+ ,SPACE
+а,CCONJ
+о,ADP
+том,PRON
+",",PUNCT
+что,SCONJ
+он,PRON
+"
+ ",SPACE
+эту,DET
+же,PART
+долгую,ADJ
+",",PUNCT
+даже,PART
+вечную,ADJ
+бытийность,NOUN
+смерти,NOUN
+обозначил,VERB
+Лао,PROPN
+Цзы,PROPN
+.,PUNCT
+Речь,NOUN
+идет,VERB
+не,PART
+о,ADP
+том,PRON
+",",PUNCT
+что,SCONJ
+человек,NOUN
+умирает,VERB
+",",PUNCT
+т.е.,PUNCT
+из,ADP
+живого,ADJ
+становится,VERB
+мертвым,ADJ
+",",PUNCT
+ ,SPACE
+а,CCONJ
+о,ADP
+том,PRON
+",",PUNCT
+что,SCONJ
+он,PRON
+	,SPACE
+#,SYM
+#,NOUN
+#,PUNCT
+	,SPACE
+смертствует,VERB
+	,SPACE
+",",PUNCT
+т.е.,PUNCT
+совершает,VERB
+то,PRON
+",",PUNCT
+что,SCONJ
+достойно,ADV
+сознательно,ADV
+смертного,VERB
+существа,NOUN
+.,PUNCT
+"
+",SPACE
+Заглянула,VERB
+под,ADP
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+грызомый,VERB
+	 ,SPACE
+объект,NOUN
+–,PUNCT
+никого,PRON
+.,PUNCT
+"
+",SPACE
+--,PUNCT
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+Б,PROPN
+-,ADV
+быстро,ADV
+	,SPACE
+"шли,--",NOUN
+сипел,VERB
+Гусев,PROPN
+",",PUNCT
+оправдываясь,VERB
+.,PUNCT
+"
+",SPACE
+Но,CCONJ
+до,ADP
+наркоманов,NOUN
+всем,PRON
+далеко,ADV
+",",PUNCT
+для,ADP
+этого,PRON
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+дооолго,ADV
+	,SPACE
+зависать,VERB
+надо,ADV
+",",PUNCT
+насколько,ADV
+я,PRON
+поняла,VERB
+.,PUNCT
+"
+",SPACE
+--,PUNCT
+Действительно,ADJ
+",",PUNCT
+чего,PRON
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+заздря,NOUN
+	,SPACE
+человека,NOUN
+"толкать,--",PROPN
+добавил,VERB
+мужичок,NOUN
+Пантелеймон,PROPN
+.,PUNCT
+"
+",SPACE
+«,PUNCT
+красное,ADJ
+»,PUNCT
+нам,PRON
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+западло,VERB
+	,SPACE
+",",PUNCT
+и,CCONJ
+мы,PRON
+в,ADP
+эту,DET
+сторону,NOUN
+не,PART
+пойдем,VERB
+...,PUNCT
+"
+",SPACE
+Значит,VERB
+",",PUNCT
+он,PRON
+снова,ADV
+стал,VERB
+ей,PRON
+прекрасен,ADJ
+и,CCONJ
+важнее,ADJ
+всего,PRON
+на,ADP
+свете,NOUN
+:,PUNCT
+дома,NOUN
+",",PUNCT
+семьи,NOUN
+",",PUNCT
+мужа,NOUN
+",",PUNCT
+репутации,NOUN
+",",PUNCT
+снова,ADV
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+захлебно,ADJ
+	,SPACE
+",",PUNCT
+ошалело,VERB
+любим,VERB
+в,ADP
+нынешнем,ADJ
+убогом,ADJ
+облике,NOUN
+...,PUNCT
+"
+",SPACE
+Энергия,NOUN
+",",PUNCT
+естественно,ADV
+",",PUNCT
+переходит,VERB
+в,ADP
+тепло,NOUN
+",",PUNCT
+выделяемое,VERB
+сопротивлением,NOUN
+;,PUNCT
+это,PRON
+так,ADV
+называемые,VERB
+тепловые,ADJ
+потери,NOUN
+",",PUNCT
+или,CCONJ
+	,SPACE
+#,SYM
+#,SYM
+#,PUNCT
+	,SPACE
+джоулево,PROPN
+	,SPACE
+тепло,NOUN
+.,PUNCT
+"
+",SPACE
