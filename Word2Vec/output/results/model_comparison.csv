@@ -1,0 +1,4 @@
+File,Word Pair,Cosine_CBOW,Cosine_SG,Euclid_CBOW,Euclid_SG
+processed_prose_clean.txt,экзамен_NOUN vs государственный_ADJ,0.9729,0.8794,0.5418,0.9141
+processed_prose_clean.txt,командировка_NOUN vs капитан_NOUN,0.7126,0.5865,3.5434,2.1757
+processed_prose_clean.txt,командировка_NOUN vs уехать_VERB,0.8234,0.9134,1.0672,0.9465
