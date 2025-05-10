@@ -1,0 +1,42 @@
+Токены: ['джон', 'пошёл', 'на', 'стадион', 'с', 'собакой']
+Обнаружены неоднозначности: 2 разборов
+Разбор 1 из 2 (максимум):
+(XP[]
+  (S[-inv]
+    (NP[C='nomn', G='masc', NUM='sing', PER=3]
+      (NOUN[C='nomn', G='masc', NF='джон', NUM='sing', PER=3] джон))
+    (VP[G='masc', NUM='sing', PER=0, TENSE='past', +pp]
+      (VP[G='masc', NUM='sing', PER=0, TENSE='past', +pp]
+        (VP[G='masc', NUM='sing', PER=0, TENSE='past', TR='intr']
+          (VERB[G='masc', NF='пойти', NUM='sing', PER=0, TENSE='past', TR='intr']
+            пошёл))
+        (PP[C=?c, G='masc', NUM='sing', PER=3]
+          (PREP[NF='на'] на)
+          (NP[C='accs', G='masc', NUM='sing', PER=3]
+            (NOUN[C='accs', G='masc', NF='стадион', NUM='sing', PER=3]
+              стадион))))
+      (PP[C=?c, G='femn', NUM='sing', PER=3]
+        (PREP[NF='с'] с)
+        (NP[C='ablt', G='femn', NUM='sing', PER=3]
+          (NOUN[C='ablt', G='femn', NF='собака', NUM='sing', PER=3]
+            собакой))))))
+Разбор 2 из 2 (максимум):
+(XP[]
+  (S[-inv]
+    (NP[C='nomn', G='masc', NUM='sing', PER=3]
+      (NOUN[C='nomn', G='masc', NF='джон', NUM='sing', PER=3] джон))
+    (VP[G='masc', NUM='sing', PER=0, TENSE='past', +pp]
+      (VP[G='masc', NUM='sing', PER=0, TENSE='past', TR='intr']
+        (VERB[G='masc', NF='пойти', NUM='sing', PER=0, TENSE='past', TR='intr']
+          пошёл))
+      (PP[C=?c, G='masc', NUM='sing', PER=?p]
+        (PREP[NF='на'] на)
+        (NP[C='accs', G='masc', NUM='sing', +pp]
+          (NP[C='accs', G='masc', NUM='sing', PER=3]
+            (NOUN[C='accs', G='masc', NF='стадион', NUM='sing', PER=3]
+              стадион))
+          (PP[C=?c, G='femn', NUM='sing', PER=3]
+            (PREP[NF='с'] с)
+            (NP[C='ablt', G='femn', NUM='sing', PER=3]
+              (NOUN[C='ablt', G='femn', NF='собака', NUM='sing', PER=3]
+                собакой))))))))

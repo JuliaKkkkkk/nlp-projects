@@ -1,0 +1,99 @@
+XP -> NP
+XP -> VP
+XP -> AdjP
+XP -> AdvP
+XP -> COMP
+XP -> PP
+XP -> NUMRNP
+XP -> NUMR
+XP -> S
+XP -> CONJP
+XP -> PREDP
+XP -> PrtfP
+S[-inv] -> NP[C=nomn, NUM=?n, PER=?p, G=?g] VP[NUM=?n, PER=0, G=?g]
+S[-inv] -> NP[C=nomn, NUM=?n, PER=?p, G=?g] VP[NUM=?n, PER=?p, G=0]
+S[-inv] -> AdjP[C=nomn, NUM=?n, PER=?p, G=?g] VP[NUM=?n, PER=0, G=?g]
+S[-inv] -> AdjP[C=nomn, NUM=?n, PER=?p, G=?g] VP[NUM=?n, PER=?p, G=0]
+S[-inv] -> NP[C=nomn, NUM=plur, PER=?p] VP[NUM=?n, PER=0, G=None]
+S[+adj] -> NP[C=nomn, NUM=?n, PER=?p, G=?g] AdjP[C=nomn, NUM=?n, PER=?p, G=?g]
+S[-inv] -> NUMRNP[C=nomn] VP
+S[+inv] -> VP[NUM=?n, PER=0, G=?g] NP[C=nomn, NUM=?n, PER=?p, G=?g]
+S[+inv] -> VP[NUM=?n, PER=?p, G=0] NP[C=nomn, NUM=?n, PER=?p, G=?g]
+S[+advp] -> AdvP S[+advp]
+S[+advp] -> NP[C=gent, NUM=?n, PER=?p, G=?g] AdvP
+S[+predp] -> NP[C=datv] PREDP
+S[+comp] -> NP[C=datv] COMP
+S -> CONJ S
+S -> NP[C=nomn, NUM=?n] '-' NP[C=nomn, NUM=?n]
+S[+S] -> S ',' CONJ S
+S[+S] -> S ',' S
+S[+S] -> S ',' VP
+PREDP -> PREDP  VP[TR=?tr, NUM=0, PER=0, G=0]
+PREDP -> AdvP PREDP
+PREDP -> PRED
+NUMRNP[C=?c] -> NUMR[C=?c] NP[C=?c, NUM=plur]
+NUMRNP[C=accs] -> NUMR[C=accs] NP[C=gent]
+NUMRNP[+nomn, C=nomn] -> NUMR[C=nomn] NP[C=gent]
+NUMR[C=?c] -> NUMR[C=?c] NUMR[C=?c]
+PP[C=?c, G=?g, NUM=?n, PER=?p] -> PREP NP[C=datv, G=?g, NUM=?n, PER=?p]
+PP[C=?c, G=?g, NUM=?n, PER=?p] -> PREP NP[C=loct, G=?g, NUM=?n, PER=?p]
+PP[C=?c, G=?g, NUM=?n, PER=?p] -> PREP NP[C=accs, G=?g, NUM=?n, PER=?p]
+PP[C=?c, G=?g, NUM=?n, PER=?p] -> PREP NP[C=gent, G=?g, NUM=?n, PER=?p]
+PP[C=?c, G=?g, NUM=?n, PER=?p] -> PREP NP[C=ablt, G=?g, NUM=?n, PER=?p]
+PP -> PREP NUMRNP[-nomn]
+PP[+advb] -> AdvP PP
+PP -> PP AdvP
+AdvP[+conj] -> AdvP CONJ AdvP
+AdvP[+numr] -> AdvP NUMRNP
+AdvP -> ADVB AdvP
+AdvP -> ADVB
+PrtfP[C=?c, G=?g, NUM=?n] -> PRTF[C=?c, G=?g, NUM=?n]
+PrtfP[+pp, C=?c, G=?g, NUM=?n] -> PrtfP[C=?c, G=?g, NUM=?n] PP
+PrtfP[+instr, C=?c, G=?g, NUM=?n] -> PrtfP[C=?c, G=?g, NUM=?n] NP[C=ablt]
+PrtfP[+instr, C=?c, G=?g, NUM=?n] -> PrtfP[C=?c, G=?g, NUM=?n] AdvP
+NP[+adjf, C=?c, G=?g, NUM=sing] -> AdjP[C=?c, G=?g, NUM=sing] NP[C=?c, G=?g, NUM=sing]
+NP[+adjf, C=?c, NUM=plur] -> AdjP[C=?c, NUM=plur] NP[C=?c, NUM=plur]
+NP[+gent, C=?c, G=?g, NUM=?n] -> NP[C=?c, G=?g, NUM=?n] NP[C=gent]
+NP[+prtf, C=?c, G=?g, NUM=sing] -> PrtfP[C=?c, G=?g, NUM=sing] NP[C=?c, G=?g, NUM=sing]
+NP[+prtf, C=?c, NUM=plur] -> PrtfP[C=?c, NUM=plur] NP[C=?c, NUM=plur]
+NP[C=?c, +conj] -> NP[C=?c] CONJ NP[C=?c]
+NP[C=?c, NUM=?n, PER=?p, G=?g] -> NPRO[C=?c, NUM=?n, PER=?p, G=?g]
+NP[+pp, C=?c, G=?g, NUM=?n] -> NP[C=?c, G=?g, NUM=?n] PP
+NP[+prcl, C=?c, G=?g, NUM=?n] ->PRCL NP[C=?c, G=?g, NUM=?n]
+NP[+particip, C=?c, NUM=plur] -> NP[C=?c, NUM=?n] ',' PrtfP[C=?c, NUM=?n] 
+NP[C=?c, G=?g, NUM=?n, PER=?p] -> NOUN[C=?c, G=?g, NUM=?n, PER=?p]
+VP[+advb, TR=?tr, TENSE=?t, G=?g, NUM=?n, PER=?p] -> AdvP VP[TENSE=?t, TR=?tr, G=?g, NUM=?n, PER=?p]
+VP[+advb, TENSE=?t, G=?g, NUM=?n, PER=?p] -> VP[TENSE=?t, G=?g, NUM=?n, PER=?p] AdvP
+VP[+infn, TR=?tr, NUM=?n, PER=?p, G=?g] -> VP[NUM=?n, PER=?p, G=?g] VP[TR=?tr, NUM=0, PER=0, G=0]
+VP[+objt, NUM=?n, PER=?p, G=?g, TR=tran] -> VP[-objt, NUM=?n, PER=?p, G=?g, TR=tran] NP[C=accs]
+VP[+objt, NUM=?n, PER=?p, G=?g, TR=tran] -> VP[-objt, NUM=?n, PER=?p, G=?g, TR=tran] NP[C=gent]
+VP[+objt, NUM=?n, PER=?p, G=?g, TR=tran] -> NP[C=accs] VP[-objt, NUM=?n, PER=?p, G=?g, TR=tran]
+VP[TENSE=?t, G=?g, NUM=?n, PER=?p] -> INFN[TENSE=?t, G=?g, NUM=?n, PER=?p]
+VP[+instr, TENSE=?t, G=?g, NUM=?n, PER=?p] -> VP[TENSE=?t, G=?g, NUM=?n, PER=?p] NP[C=ablt]
+VP[+pp, TENSE=?t, G=?g, NUM=?n, PER=?p] -> VP[TENSE=?t, G=?g, NUM=?n, PER=?p] PP
+VP[+pp, TENSE=?t, G=?g, NUM=?n, PER=?p] -> PP VP[TENSE=?t, G=?g, NUM=?n, PER=?p]
+VP[+datv, TENSE=?t, G=?g, NUM=?n, PER=?p] ->VP[TENSE=?t, G=?g, NUM=?n, PER=?p] NP[C=datv]
+VP[+adj, TENSE=?t, G=?g, NUM=?n, PER=?p] -> VP[TENSE=?t, G=?g, NUM=?n, PER=?p] AdjP
+VP[+comp, TENSE=?t, G=?g, NUM=?n, PER=?p] -> VP[TENSE=?t, G=?g, NUM=?n, PER=?p] COMP
+VP[+numr, TENSE=?t, G=?g, NUM=?n, PER=?p] -> VP[TENSE=?t, G=?g, NUM=?n, PER=?p] NUMR
+VP[+neg, TENSE=?t, G=?g, NUM=?n, PER=?p] -> 'не' VP[TENSE=?t, G=?g, NUM=?n, PER=?p]
+VP[TR=?tr, TENSE=?t, G=?g, NUM=?n, PER=?p] -> VERB[TR=?tr, TENSE=?t, G=?g, NUM=?n, PER=?p]
+AdjP[+advb, C=?c, G=?g, NUM=?n] -> AdvP AdjP[C=?c, G=?g, NUM=?n]
+AdjP[+advb, C=?c, G=?g, NUM=?n] -> AdjP[C=?c, G=?g, NUM=?n] PP
+AdjP[C=?c, G=?g, NUM=?n, +conj] -> AdjP[C=?c, G=?g, NUM=?n] CONJ AdjP[C=?c, G=?g, NUM=?n]
+AdjP[C=?c, G=?g, NUM=?n] -> ADJF[C=?c, G=?g, NUM=?n]
+AdjP[+adjs, G=?g, NUM=?n] -> ADJS[G=?g, NUM=?n]
+COMP[+conj] -> COMP CONJ COMP
+COMP[+advb] -> AdvP COMP
+COMP[+noun, +comp] -> COMP[-comp] NP[C=gent]
+COMP[+vp] -> COMP VP
+INFN[+conj] -> INFN CONJ INFN
+CONJP[+vp] -> CONJ VP
+
+NOUN[C=nomn, G=masc, NUM=sing, PER=3, NF=u'джон'] -> 'джон'
+VERB[TR=intr, TENSE=past, G=masc, NUM=sing, PER=0, NF=u'пойти'] -> 'пошёл'
+PREP[NF=u'на'] -> 'на'
+NOUN[C=nomn, G=masc, NUM=sing, PER=3, NF=u'стадион'] -> 'стадион'
+NOUN[C=accs, G=masc, NUM=sing, PER=3, NF=u'стадион'] -> 'стадион'
+PREP[NF=u'с'] -> 'с'
+NOUN[C=ablt, G=femn, NUM=sing, PER=3, NF=u'собака'] -> 'собакой'
